@@ -4,4 +4,8 @@ h1{
 }
 body{
     background-image: url("taswira.jpg");
+        background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
